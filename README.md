@@ -1,6 +1,6 @@
 # 🌟 Django Web API with Django REST Framework 🌟
 
-Welcome to the final project of my Coursera course! 🚀 This project is a fully functional **Django web application** paired with a powerful **RESTful API** built using **Django REST Framework**. It combines the best of backend logic, modern web development, and API integration to create a seamless and secure experience.
+Welcome to the final project of my Coursera course! 🚀 This project is a simple functional **Django web application** paired with a powerful **RESTful API** built using **Django REST Framework**. It combines the best of backend logic, modern web development, and API integration to create a seamless and secure experience.
 
 ## 📋 Features:
 - **Dynamic Web Application**: Custom HTML, CSS, and JavaScript for a responsive and user-friendly UI.
