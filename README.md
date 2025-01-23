@@ -16,4 +16,4 @@ Welcome to the final project of my Coursera course! 🚀 This project is a simpl
 - **API**: Django REST Framework
 - **Authentication**: DRF Token Authentication + Djoser
 
-This project reflects my journey in learning and mastering Django and RESTful APIs. I'm thrilled to share it and hope it inspires others to dive into web development and API design! 💻✨
+This project reflects my journey in learning and mastering Django and RESTful APIs.  💻✨
